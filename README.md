@@ -8,15 +8,19 @@ This github account is mainly for every/most technical projects I have & will ev
 All the projects you use in this account are mostly projects I have built from the ground up.
 
 # Programming Languages I use
-![python-logo-only](https://github.com/user-attachments/assets/9e12c6a0-3fad-424b-84b3-11ce2b510dd3) 
+![pythonCIcon](https://github.com/user-attachments/assets/4ad1f1ab-6228-46e1-a6f0-1a17b04f7b58)
 Python
-![lua](https://github.com/user-attachments/assets/83836d7d-4b3b-4dda-9c55-5a50255dff02) 
+
+![luaCIcon](https://github.com/user-attachments/assets/34adb9e1-572f-4991-860b-7cdd9dcd82a0)
 Lua
-![typescript-icon](https://github.com/user-attachments/assets/672c09ec-ed1b-4f3b-8468-0a06b34a4482) 
+
+![typedscriptCIcon](https://github.com/user-attachments/assets/70faad91-74d5-419b-ac3d-83791b27f3a0)
 TypedScript
-![rust](https://github.com/user-attachments/assets/80f53607-575c-488a-9e97-04b14f2dc0ac) 
+
+![rustCIcon](https://github.com/user-attachments/assets/d202cc0d-1add-4af9-befe-77e857fe7c5a)
 Rust
-![c-program-icon](https://github.com/user-attachments/assets/93671e7a-c795-45e3-9ca5-bdab8ad70b51) 
+
+![CCIcon](https://github.com/user-attachments/assets/4253da2f-1aa5-49e6-a098-094cdad3b90b)
 C
 
 # Links
