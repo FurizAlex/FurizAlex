@@ -8,7 +8,7 @@ This github account is mainly for every/most technical projects I have & will ev
 All the projects you use in this account are mostly projects I have built from the ground up.
 
 # Programming Languages I use
-<p align="center">
+<p>
   ![pythonCIcon](https://github.com/user-attachments/assets/4ad1f1ab-6228-46e1-a6f0-1a17b04f7b58)
   ![luaCIcon](https://github.com/user-attachments/assets/34adb9e1-572f-4991-860b-7cdd9dcd82a0)
   ![typedscriptCIcon](https://github.com/user-attachments/assets/70faad91-74d5-419b-ac3d-83791b27f3a0)
