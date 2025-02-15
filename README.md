@@ -15,8 +15,14 @@ All the projects you use in this account are mostly projects I have built from t
 ![CCIcon](https://github.com/user-attachments/assets/4253da2f-1aa5-49e6-a098-094cdad3b90b)
 
 # Links
-Music Channel -    / @secoyra  
-Twitter -   / furizalex  
+Website - https://furizalex.neocities.org/
+
+Youtube Channel - https://www.youtube.com/@FurizAlex
+
+Music Channel - https://www.youtube.com/@Secoyra
+
+Bluesky - https://bsky.app/profile/furizalex.bsky.social
+
 Gamejolt - https://gamejolt.com/@FurizAlex
+
 Newgrounds - https://furizalex.newgrounds.com/
-Soundcloud -   / furizalex  
