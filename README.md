@@ -1,7 +1,7 @@
 ## Howdy! I'm FurizAlex :D
 **`Digital Artist (Game Developer, Artist, Creator)`**
 
-![furizalexHeader](https://github.com/user-attachments/assets/449f2c0a-2e2a-45d8-bcde-4f55158b4b90)
+![furizalexHeader](https://github.com/user-attachments/assets/baee14b3-a42e-469a-8cdc-3eff1ffb129a)
 
 Hello there! I'm FurizAlex (or Alex) and I am an artist who does occasional programming,
 This github account is mainly for every/most technical projects I have & will ever do.
