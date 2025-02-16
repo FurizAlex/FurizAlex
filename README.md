@@ -1,4 +1,4 @@
-<h1 align="center">
+<body align="center">
   ## Howdy! I'm FurizAlex :D
   **`Digital Artist (Game Developer, Artist, Programmer, Creator)`**
   
@@ -34,4 +34,5 @@
   Gamejolt - https://gamejolt.com/@FurizAlex
   
   Newgrounds - https://furizalex.newgrounds.com/
-</h1>
+</body
+  >
