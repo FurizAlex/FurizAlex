@@ -1,5 +1,5 @@
 ## Howdy! I'm FurizAlex :D
-**`Digital Artist (Game Developer, Artist, Creator)`**
+**`Digital Artist (Game Developer, Artist, Programmer, Creator)`**
 
 ![furizalexHeader](https://github.com/user-attachments/assets/baee14b3-a42e-469a-8cdc-3eff1ffb129a)
 
