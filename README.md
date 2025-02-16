@@ -2,7 +2,7 @@
 **`Digital Artist (Game Developer, Artist, Programmer, Creator)`**
 
   ![furizalexHeader](https://github.com/user-attachments/assets/baee14b3-a42e-469a-8cdc-3eff1ffb129a)
-<center>  
+<div style="text-align: center;">
   Hello there! I'm FurizAlex (or Alex) and I am an artist who does occasional programming,
   This github account is mainly for every/most technical projects I have & will ever do.
   All the projects you use in this account are mostly projects I have built from the ground up.
@@ -33,4 +33,4 @@
   Gamejolt - https://gamejolt.com/@FurizAlex
   
   Newgrounds - https://furizalex.newgrounds.com/
-</center>
+</div>
