@@ -6,7 +6,7 @@
   Hello there! I'm FurizAlex (or Alex) and I am an artist who does occasional programming,
   This github account is mainly for every/most technical projects I have & will ever do.
   All the projects you use in this account are mostly projects I have built from the ground up.
-</h3>
+  
   # Software's I use
   ![godotCIcon](https://github.com/user-attachments/assets/22dcaf67-ffba-45e9-a7b6-feb5fdb8d70b)
   ![blender_icon_64x64](https://github.com/user-attachments/assets/e1e4297f-1600-4fc2-bc35-21d94ec0cb6c)
@@ -33,3 +33,4 @@
   Gamejolt - https://gamejolt.com/@FurizAlex
   
   Newgrounds - https://furizalex.newgrounds.com/
+</h3>
