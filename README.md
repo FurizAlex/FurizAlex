@@ -1,7 +1,7 @@
-<body align="center">
-  ## Howdy! I'm FurizAlex :D
-  **`Digital Artist (Game Developer, Artist, Programmer, Creator)`**
-  
+## Howdy! I'm FurizAlex :D
+**`Digital Artist (Game Developer, Artist, Programmer, Creator)`**
+
+<body align="center">  
   ![furizalexHeader](https://github.com/user-attachments/assets/baee14b3-a42e-469a-8cdc-3eff1ffb129a)
   
   Hello there! I'm FurizAlex (or Alex) and I am an artist who does occasional programming,
