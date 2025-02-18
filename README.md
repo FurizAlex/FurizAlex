@@ -7,7 +7,7 @@
   This github account is mainly for every/most technical projects I have & will ever do.
   Almost all the projects you see in this account are mostly projects I have built from the ground up.
   
-  ## Software's I use
+  ## Softwares I use
   ![godotCIcon](https://github.com/user-attachments/assets/22dcaf67-ffba-45e9-a7b6-feb5fdb8d70b)
   ![blender_icon_64x64](https://github.com/user-attachments/assets/e1e4297f-1600-4fc2-bc35-21d94ec0cb6c)
   ![affinityDesignerCIcon](https://github.com/user-attachments/assets/3bcc5b0c-468b-40af-9186-7eb278e36397)
