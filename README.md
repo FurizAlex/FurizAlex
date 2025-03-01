@@ -24,14 +24,14 @@
   
   ## Links
   Website - https://furizalex.neocities.org/
-  
+ 
   Youtube Channel - https://www.youtube.com/@FurizAlex
-  
+ 
   Music Channel - https://www.youtube.com/@Secoyra
-  
+ 
   Bluesky - https://bsky.app/profile/furizalex.bsky.social
-  
+ 
   Gamejolt - https://gamejolt.com/@FurizAlex
-  
+ 
   Newgrounds - https://furizalex.newgrounds.com/
 </div>
