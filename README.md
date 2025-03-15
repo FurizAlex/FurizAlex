@@ -4,6 +4,7 @@
   ![furizalexHeader](https://github.com/user-attachments/assets/baee14b3-a42e-469a-8cdc-3eff1ffb129a)
   
   ![githubAboutMePage](https://github.com/user-attachments/assets/42a28d77-4944-4b6f-92a8-65afcb42c7f9)
+
 <div style="text-align: center;">
   ## Softwares I use
   ![godotCIcon](https://github.com/user-attachments/assets/22dcaf67-ffba-45e9-a7b6-feb5fdb8d70b)
