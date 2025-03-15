@@ -34,6 +34,4 @@
   Gamejolt - https://gamejolt.com/@FurizAlex
  
   Newgrounds - https://furizalex.newgrounds.com/
-
-  ![githubAboutMePage](https://github.com/user-attachments/assets/52623aa2-b3bb-49b0-8f54-0276e7616832)
 </div>
