@@ -3,14 +3,14 @@
 
   ![furizalexHeader](https://github.com/user-attachments/assets/baee14b3-a42e-469a-8cdc-3eff1ffb129a)
 <div style="text-align: center;">
- <h1>
+ <h3>
   Hello there! I'm FurizAlex (or Alex) and I am an game developer & artist who does occasional programming,
   This github account is mainly for every/most technical projects I have & will ever do.
   Almost all the projects you see in this account are mostly projects I have built from the ground up.
 
   Side Note: DO NOT ask me about crypto, NFTS & generative ai (especially regarding art) as I am very much not a fan of these
   please bother someone else with these, NOT ME.
-</h1>
+</h3>
 
   ## Softwares I use
   ![godotCIcon](https://github.com/user-attachments/assets/22dcaf67-ffba-45e9-a7b6-feb5fdb8d70b)
