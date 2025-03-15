@@ -1,4 +1,4 @@
-![githubAboutMePage](https://github.com/user-attachments/assets/14dba9d0-a1f8-4cbb-93e0-0766ba420ddb) # Howdy! I'm FurizAlex :D
+# Howdy! I'm FurizAlex :D
 **`Digital Artist (Game Developer, Artist, Programmer, Creator)`**
 
   ![furizalexHeader](https://github.com/user-attachments/assets/baee14b3-a42e-469a-8cdc-3eff1ffb129a)
