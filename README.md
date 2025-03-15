@@ -1,11 +1,12 @@
-# Howdy! I'm FurizAlex :D
+ # Howdy! I'm FurizAlex :D
 **`Digital Artist (Game Developer, Artist, Programmer, Creator)`**
 
   ![furizalexHeader](https://github.com/user-attachments/assets/baee14b3-a42e-469a-8cdc-3eff1ffb129a)
-  
-  ![githubAboutMePage](https://github.com/user-attachments/assets/42a28d77-4944-4b6f-92a8-65afcb42c7f9)
-
 <div style="text-align: center;">
+  Hello there! I'm FurizAlex (or Alex) and I am an artist who does occasional programming,
+  This github account is mainly for every/most technical projects I have & will ever do.
+  Almost all the projects you see in this account are mostly projects I have built from the ground up.
+  
   ## Softwares I use
   ![godotCIcon](https://github.com/user-attachments/assets/22dcaf67-ffba-45e9-a7b6-feb5fdb8d70b)
   ![blender_icon_64x64](https://github.com/user-attachments/assets/e1e4297f-1600-4fc2-bc35-21d94ec0cb6c)
@@ -33,4 +34,6 @@
   Gamejolt - https://gamejolt.com/@FurizAlex
  
   Newgrounds - https://furizalex.newgrounds.com/
+
+  ![githubAboutMePage](https://github.com/user-attachments/assets/52623aa2-b3bb-49b0-8f54-0276e7616832)
 </div>
