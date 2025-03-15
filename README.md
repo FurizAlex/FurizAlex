@@ -9,7 +9,7 @@
   Almost all the projects you see in this account are mostly projects I have built from the ground up.
 </h3>
 <h4>
-  Side Note: DO NOT ask me about crypto, NFTS or generative ai (especially regarding art) as I am very much not a fan of these
+  Side Note: DO NOT ask me about crypto, NFTS or generative ai (especially regarding art) as I am very much NOT a fan of these
   & don't care about these either. Please bother someone else with these, NOT ME.
 </h4>
 
