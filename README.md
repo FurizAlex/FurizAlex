@@ -2,6 +2,7 @@
 **`Digital Artist (Game Developer, Artist, Programmer, Creator)`**
 
   ![furizalexHeader](https://github.com/user-attachments/assets/baee14b3-a42e-469a-8cdc-3eff1ffb129a)
+  
   ![githubAboutMePage](https://github.com/user-attachments/assets/42a28d77-4944-4b6f-92a8-65afcb42c7f9)
 <div style="text-align: center;">
   ## Softwares I use
