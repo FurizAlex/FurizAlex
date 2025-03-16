@@ -13,6 +13,7 @@
   & don't care about these either. Please bother someone else with these, NOT ME.
 </h4>
 ## Things I use
+ 
 <table>
   ![godotCIcon](https://github.com/user-attachments/assets/22dcaf67-ffba-45e9-a7b6-feb5fdb8d70b)
   ![blender_icon_64x64](https://github.com/user-attachments/assets/e1e4297f-1600-4fc2-bc35-21d94ec0cb6c)
@@ -20,6 +21,7 @@
   ![kritaCIcon](https://github.com/user-attachments/assets/75ebb8b3-f8c4-43d1-8de2-a0a8c7abfff3)
   ![reaperCIcon](https://github.com/user-attachments/assets/e5345fcd-1456-4436-ba3d-b20cdd8143aa)
   ![fmodIcon](https://github.com/user-attachments/assets/2267d65e-07f7-4d14-92e8-c2cd18919b33)
+ 
  <tr><td><h3>Programming Languages</h3></td><td>
   <span title="Python">
    <img src='github_pythonIcon' width="50">
@@ -33,6 +35,7 @@
    <img src='github_rustIcon' width="50">
   </span> <span title="C">
    <img src='github_cIcon' width="50">
+ </td></tr>
  </table>
   ## Links
   Website - https://furizalex.neocities.org/
