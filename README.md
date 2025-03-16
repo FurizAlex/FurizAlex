@@ -17,30 +17,30 @@
 <table>
  <tr><td><h3>Programming Languages</h3></td><td>
   <span title="Godot">
-   <img src='github_godotIcon' width="50">
+   <img src='github_godotIcon.png' width="50">
   </span> <span title="Blender">
-   <img src='github_blenderIcon' width="50">
+   <img src='github_blenderIcon.png' width="50">
   </span> <span title="Affinity Designer">
-   <img src='github_affinitydesignerIcon' width="50">
+   <img src='github_affinitydesignerIcon.png' width="50">
   </span> <span title="Reaper">
-   <img src='github_reaperIcon' width="50">
-  </span> <span title="Krita">
+   <img src='github_reaperIcon.png' width="50">
+  </span> <span title="Krita.png">
    <img src='github_kritaIcon' width="50">
   </span>
  </td></tr>
  <tr><td><h3>Programming Languages</h3></td><td>
   <span title="Python">
-   <img src='github_pythonIcon' width="50">
+   <img src='github_pythonIcon.png' width="50">
   </span> <span title="Lua">
-   <img src='github_luaIcon' width="50">
+   <img src='github_luaIcon.png' width="50">
   </span> <span title="Ruby">
-   <img src='github_rubyIcon' width="50">
+   <img src='github_rubyIcon.png' width="50">
   </span> <span title="TypeScript">
-   <img src='github_typescriptIcon' width="50">
+   <img src='github_typescriptIcon.png' width="50">
   </span> <span title="Rust">
-   <img src='github_rustIcon' width="50">
+   <img src='github_rustIcon.png' width="50">
   </span> <span title="C">
-   <img src='github_cIcon' width="50">
+   <img src='github_cIcon.png' width="50">
   </span>
  </td></tr>
  </table>
