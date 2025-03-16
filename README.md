@@ -16,7 +16,7 @@
 ## Things I use
  
 <table>
- <tr><td><h3>Programming Languages</h3></td><td>
+ <tr><td><h3>Softwares</h3></td><td>
   <span title="Godot">
    <img src='github_godotIcon.png' width="50">
   </span> <span title="Blender">
