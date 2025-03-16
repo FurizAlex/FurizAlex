@@ -25,7 +25,7 @@
   </span> <span title="Reaper">
    <img src='github_reaperIcon.png' width="50">
   </span> <span title="Krita.png">
-   <img src='github_kritaIcon' width="50">
+   <img src='github_kritaIcon.png' width="50">
   </span>
  </td></tr>
  <tr><td><h3>Programming Languages</h3></td><td>
