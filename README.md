@@ -51,7 +51,7 @@
  <summary>
    <strong>Some of my games I've develop/is developing.</strong>
  </summary>
- <p align='left'>
+ <p align='center'>
 	<br>
 	<img width="840" src="github_rainIsoImage.png"></img>
 	<br>
