@@ -12,6 +12,7 @@
   Side Note: DO NOT ask me about crypto, NFTS or generative ai (especially regarding art) as I am very much NOT a fan of these
   & don't care about these either. Please bother someone else with these, NOT ME.
 </h4>
+ 
 ## Things I use
  
 <table>
@@ -44,7 +45,8 @@
   </span>
  </td></tr>
  </table>
-  ## Links
+ 
+ ## Links
   Website - https://furizalex.neocities.org/
  
   Youtube Channel - https://www.youtube.com/@FurizAlex
