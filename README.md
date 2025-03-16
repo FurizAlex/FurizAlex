@@ -109,4 +109,8 @@
   Gamejolt - https://gamejolt.com/@FurizAlex
  
   Newgrounds - https://furizalex.newgrounds.com/
+
+<p align='center'>
+	<img width="1280" src="github_otherStuff.png"></img>
+</p>
 </div>
