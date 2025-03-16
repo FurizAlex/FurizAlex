@@ -31,8 +31,14 @@
 <tr><td><h3>Illustrations</h3></td><td>
 <span title="Affinity Designer">
    <img src='github_affinitydesignerIcon.png' width="72">
-  </span> </span> <span title="Krita.png">
+  </span> <span title="Krita">
    <img src='github_kritaIcon.png' width="72">
+  </span> <span title="Inkscape">
+   <img src='github_inkscapeIcon.png' width="72">
+  </span> <span title="Figma">
+   <img src='github_figmaIcon.png' width="72">
+  </span> <span title="Asperite">
+   <img src='github_asperiteIcon.png' width="72">
   </span> 
 </td></tr>
 <tr><td><h3>Music & Audio</h3></td><td>
