@@ -22,11 +22,17 @@
   ![fmodIcon](https://github.com/user-attachments/assets/2267d65e-07f7-4d14-92e8-c2cd18919b33)
  <tr><td><h3>Programming Languages</h3></td><td>
   <span title="Python">
-   ![pythonCIcon](https://github.com/user-attachments/assets/4ad1f1ab-6228-46e1-a6f0-1a17b04f7b58)
-   ![luaCIcon](https://github.com/user-attachments/assets/34adb9e1-572f-4991-860b-7cdd9dcd82a0)
-   ![typedscriptCIcon](https://github.com/user-attachments/assets/70faad91-74d5-419b-ac3d-83791b27f3a0)
-   ![rustCIcon](https://github.com/user-attachments/assets/d202cc0d-1add-4af9-befe-77e857fe7c5a)
-   ![CCIcon](https://github.com/user-attachments/assets/4253da2f-1aa5-49e6-a098-094cdad3b90b)
+   <img src='github_pythonIcon' width="50">
+  </span> <span title="Lua">
+   <img src='github_luaIcon' width="50">
+  </span> <span title="Ruby">
+   <img src='github_rubyIcon' width="50">
+  </span> <span title="TypeScript">
+   <img src='github_typescriptIcon' width="50">
+  </span> <span title="Rust">
+   <img src='github_rustIcon' width="50">
+  </span> <span title="C">
+   <img src='github_cIcon' width="50">
  </table>
   ## Links
   Website - https://furizalex.neocities.org/
