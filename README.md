@@ -16,20 +16,42 @@
 ## Things I use
  
 <table>
- <tr><td><h3>Softwares</h3></td><td>
+ <tr><td><h3>Game Engines</h3></td><td>
   <span title="Godot">
    <img src='github_godotIcon.png' width="72">
-  </span> <span title="Blender">
-   <img src='github_blenderIcon.png' width="72">
-  </span> <span title="Affinity Designer">
-   <img src='github_affinitydesignerIcon.png' width="72">
-  </span> <span title="Reaper">
-   <img src='github_reaperIcon.png' width="72">
-  </span> <span title="Krita.png">
-   <img src='github_kritaIcon.png' width="72">
   </span>
- </td></tr>
- <tr><td><h3>Programming Languages</h3></td><td>
+</td></tr>
+<tr><td><h3>3D Modeling</h3></td><td>
+ <span title="Blender">
+   <img src='github_blenderIcon.png' width="72">
+  </span> <span title="Material Maker">
+   <img src='github_materialmakerIcon.png' width="72">
+  </span>
+</td></tr>
+<tr><td><h3>Illustrations</h3></td><td>
+<span title="Affinity Designer">
+   <img src='github_affinitydesignerIcon.png' width="72">
+  </span> </span> <span title="Krita.png">
+   <img src='github_kritaIcon.png' width="72">
+  </span> 
+</td></tr>
+<tr><td><h3>Music & Audio</h3></td><td>
+<span title="Reaper">
+   <img src='github_reaperIcon.png' width="72">
+</span> <span title="Audacity">
+   <img src='github_audacityIcon.png' width="72">
+</span>
+</td></tr>
+<tr><td><h3>Video Stuff</h3></td><td>
+<span title="Davinci Resolve">
+   <img src='github_davinciresolveIcon.png' width="72">
+</span> <span title="Obs">
+   <img src='github_obsIcon.png' width="72">
+</span> <span title="FFMPEG">
+   <img src='github_ffmpegIcon.png' width="72">
+</span>
+</td></tr>
+<tr><td><h3>Programming Languages</h3></td><td>
   <span title="Python">
    <img src='github_pythonIcon.png' width="72">
   </span> <span title="Lua">
