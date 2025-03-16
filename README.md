@@ -1,7 +1,7 @@
  # Howdy! I'm FurizAlex :D
 **`Digital Artist (Game Developer, Artist, Programmer, Creator)`**
 
-  ![furizalexHeader](https://github.com/user-attachments/assets/baee14b3-a42e-469a-8cdc-3eff1ffb129a)
+![furizalexHeader](https://github.com/user-attachments/assets/baee14b3-a42e-469a-8cdc-3eff1ffb129a)
 <div style="text-align: center;">
  <h2>
   Hello there! I'm FurizAlex (or Alex) and I am an game developer & artist who does occasional programming,
@@ -45,6 +45,18 @@
   </span>
  </td></tr>
  </table>
+
+## Game's I've made.
+<details>
+ <summary>
+   <strong>Some of my games I've develop/is developing.</strong>
+ </summary>
+ <p align='center'>
+	<br>
+	 <img width="420" src=""></img>
+	<br>
+ </p>
+</details>
  
  ## Links
   Website - https://furizalex.neocities.org/
