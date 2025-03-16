@@ -53,8 +53,12 @@
  </summary>
  <p align='center'>
 	<br>
-	 <img width="840" src="github_rainisoImage"></img>
+	<img width="840" src="github_rainisoImage.png"></img>
 	<br>
+	<img width="420" src="github_contreImage.png"></img>
+	<img width="420" src="github_thosenightsatpengoosImage.png"></img>
+	<br>
+	<img width="420" src="github_theblindrobotImage.png"></img>
  </p>
 </details>
  
