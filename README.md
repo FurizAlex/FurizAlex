@@ -93,7 +93,7 @@
  </p>
 <details>
  <summary>
-   <strong>Some cats</strong>
+   <strong>Some cat</strong>
  </summary>
  <p align='center'>
 	<br>
