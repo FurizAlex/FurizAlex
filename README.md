@@ -82,10 +82,6 @@
  </table>
 
 ## Game's I've made.
-<details>
- <summary>
-   <strong>Some of my games I've develop/is developing.</strong>
- </summary>
  <p align='center'>
 	<br>
 	<img width="840" src="github_rainIsoImage.png"></img>
@@ -94,6 +90,14 @@
 	<img width="420" src="github_thosenightsatpengoosImage.png"></img>
 	<br>
 	<img width="420" src="github_theblindrobotImage.png"></img>
+ </p>
+<details>
+ <summary>
+   <strong>Some cats</strong>
+ </summary>
+ <p align='center'>
+	<br>
+	<img width="840" src="github_rainIsoImage.png"></img>
  </p>
 </details>
  
