@@ -97,7 +97,7 @@
  </summary>
  <p align='center'>
 	<br>
-	<img width="840" src="github_rainIsoImage.png"></img>
+	<img width="840" src="github_cat.png"></img>
  </p>
 </details>
  
