@@ -81,7 +81,7 @@
  </td></tr>
  </table>
 
-## Game's I've made.
+## Game's I've made/am making.
  <p align='center'>
 	<br>
 	<img width="840" src="github_rainIsoImage.png"></img>
