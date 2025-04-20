@@ -4,7 +4,7 @@
 ![furizalexHeader](https://github.com/user-attachments/assets/baee14b3-a42e-469a-8cdc-3eff1ffb129a)
 <div style="text-align: center;">
  <h2>
-  Hello there! I'm FurizAlex (or Alex) and I am an game developer & artist who does occasional programming,
+  Hello there! I'm FurizAlex (or Alex) and I am a game developer & artist who does occasional programming,
   This github account is mainly for every/most technical projects I have & will ever do.
   Almost all the projects you see in this account are mostly projects I have built from the ground up.
 </h2>
