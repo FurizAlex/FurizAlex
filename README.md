@@ -1,5 +1,5 @@
  # Howdy! I'm FurizAlex :D
-**`Digital Artist (Game Developer, Artist, Programmer, Musician)`**
+**`Digital Artist & Software Developer (Game Developer, Artist, Programmer, Musician)`**
 
 ![furizalexHeader](https://github.com/user-attachments/assets/baee14b3-a42e-469a-8cdc-3eff1ffb129a)
 <div style="text-align: center;">
@@ -8,10 +8,6 @@
   This github account is mainly for every/most technical projects I have & will ever do.
   Almost all the projects you see in this account are mostly projects I have built from the ground up.
 </h2>
-<h4>
-  Side Note: DO NOT ask me about crypto, NFTS or generative ai (especially regarding art) as I am very much NOT a fan of these
-  & don't care about these either. Please bother someone else with these, NOT ME.
-</h4>
  
 ## Things I use ##
  
