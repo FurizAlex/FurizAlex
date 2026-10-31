@@ -17,6 +17,11 @@
    <img src='github_godotIcon.png' width="72">
   </span>
 </td></tr>
+<tr><td><h3>Code Editor</h3></td><td>
+ </span> <span title="Quiver">
+    <img src='github_quiverIcon.png' width="72">
+ </span>
+</td></tr>
 <tr><td><h3>3D Modeling</h3></td><td>
  <span title="Blender">
    <img src='github_blenderIcon.png' width="72">
