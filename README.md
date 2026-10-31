@@ -73,6 +73,8 @@
    <img src='github_rustIcon.png' width="72">
   </span> <span title="C">
    <img src='github_cIcon.png' width="72">
+  </span> <span title="C++">
+   <img src='github_C++Logo.png' width="72">
   </span>
  </td></tr>
  <tr><td><h3>System Toolings</h3></td><td>
